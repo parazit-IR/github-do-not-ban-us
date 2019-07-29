@@ -618,3 +618,4 @@ You can:
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
+- Mohammad Ali Jalalkamali from Iran ([Parazit-IR](https://github.com/parazit-IR))
